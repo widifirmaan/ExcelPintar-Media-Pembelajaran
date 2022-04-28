@@ -1,0 +1,2 @@
+[24-Mar-2022 00:01:18 Asia/jakarta] PHP Deprecated:  Required parameter $email_id follows optional parameter $submission_id in /home/seet7121/public_html/excelpintar.web.id/form/global/code/Emails.class.php on line 389
+[24-Mar-2022 00:01:18 Asia/jakarta] PHP Deprecated:  Required parameter $form_fields follows optional parameter $field_ids in /home/seet7121/public_html/excelpintar.web.id/form/global/code/FieldTypes.class.php on line 713
