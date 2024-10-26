@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 3.1.31, created on 2022-03-22 23:29:05
-  from "/home/seet7121/public_html/excelpintar.web.id/form/themes/default/admin/forms/index.tpl" */
+  from "/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/admin/forms/index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     '18847e884229c16d681bfea2bab4b0de8be9c2df' => 
     array (
-      0 => '/home/seet7121/public_html/excelpintar.web.id/form/themes/default/admin/forms/index.tpl',
+      0 => '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/admin/forms/index.tpl',
       1 => 1571530732,
       2 => 'file',
     ),
@@ -21,10 +21,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 function content_6239f9516a9ac4_57533409 (Smarty_Internal_Template $_smarty_tpl) {
-if (!is_callable('smarty_function_ft_include')) require_once '/home/seet7121/public_html/excelpintar.web.id/form/global/smarty_plugins/function.ft_include.php';
-if (!is_callable('smarty_function_template_hook')) require_once '/home/seet7121/public_html/excelpintar.web.id/form/global/smarty_plugins/function.template_hook.php';
-if (!is_callable('smarty_function_clients_dropdown')) require_once '/home/seet7121/public_html/excelpintar.web.id/form/global/smarty_plugins/function.clients_dropdown.php';
-if (!is_callable('smarty_function_display_num_form_submissions')) require_once '/home/seet7121/public_html/excelpintar.web.id/form/global/smarty_plugins/function.display_num_form_submissions.php';
+if (!is_callable('smarty_function_ft_include')) require_once '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/global/smarty_plugins/function.ft_include.php';
+if (!is_callable('smarty_function_template_hook')) require_once '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/global/smarty_plugins/function.template_hook.php';
+if (!is_callable('smarty_function_clients_dropdown')) require_once '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/global/smarty_plugins/function.clients_dropdown.php';
+if (!is_callable('smarty_function_display_num_form_submissions')) require_once '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/global/smarty_plugins/function.display_num_form_submissions.php';
 echo smarty_function_ft_include(array('file'=>'header.tpl'),$_smarty_tpl);?>
 
 
