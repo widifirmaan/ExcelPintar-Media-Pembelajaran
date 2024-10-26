@@ -519,9 +519,9 @@ If we render grandchild.tpl we will get this:
   <body>
     <h1>My home</h1>
     <div id="content">
-      <img src="/example.jpg" alt="image" />
-      <img src="/example2.jpg" alt="image" />
-      <img src="/example3.jpg" alt="image" />
+      <img src="example.jpg" alt="image" />
+      <img src="example2.jpg" alt="image" />
+      <img src="example3.jpg" alt="image" />
     </div>
   </body>
 </html>

@@ -6,7 +6,7 @@
  * This file processes any form submissions for forms already added and configured within Form Tools. To
  * use it, just point your form to this file, like so:
  *
- *   <form method="post" action="/path/to/process.php">
+ *   <form method="post" action="path/to/process.php">
  *
  * Once the form has been added through the Form Tools UI, this script parses the form contents
  * and adds it to the database then redirects the user to whatever page is required. In addition,
