@@ -1,4 +1,4 @@
-<h1 align="center" id="title">ExcelPintar</h1>
+<center><h1 align="center" id="title">ExcelPintar</h1>
 
 <p id="description">Media Pembelajaran Microsoft Excel Lengkap dengan Quiz dan Latihan Soal</p>
 
