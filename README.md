@@ -12,7 +12,9 @@
 
 <img src="https://raw.githubusercontent.com/widifirmaan/excelpintar.web.id/refs/heads/main/Screenshot%20(31).png" alt="project-screenshot" width="400" height="400/">
 
-  
+<h2>🚀 Demo</h2>
+
+[io/ExcekPintar (Available until ...)](https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/)  
   
 <h2>🧐 Features</h2>
 
