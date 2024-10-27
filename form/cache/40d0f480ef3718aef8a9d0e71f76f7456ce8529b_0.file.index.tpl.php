@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 3.1.31, created on 2022-03-22 23:29:19
-  from "/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/admin/modules/index.tpl" */
+  from "/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form/themes/default/admin/modules/index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     '40d0f480ef3718aef8a9d0e71f76f7456ce8529b' => 
     array (
-      0 => '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/admin/modules/index.tpl',
+      0 => '/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form/themes/default/admin/modules/index.tpl',
       1 => 1571530732,
       2 => 'file',
     ),
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
 ),false)) {
 function content_6239f95fce2fa5_75858823 (Smarty_Internal_Template $_smarty_tpl) {
-if (!is_callable('smarty_function_ft_include')) require_once '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/global/smarty_plugins/function.ft_include.php';
+if (!is_callable('smarty_function_ft_include')) require_once '/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form/global/smarty_plugins/function.ft_include.php';
 echo smarty_function_ft_include(array('file'=>'header.tpl'),$_smarty_tpl);?>
 
 

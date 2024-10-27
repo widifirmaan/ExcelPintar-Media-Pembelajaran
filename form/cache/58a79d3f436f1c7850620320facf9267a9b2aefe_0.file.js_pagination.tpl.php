@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 3.1.31, created on 2022-03-22 23:29:05
-  from "/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/js_pagination.tpl" */
+  from "/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form/themes/default/js_pagination.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     '58a79d3f436f1c7850620320facf9267a9b2aefe' => 
     array (
-      0 => '/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form/themes/default/js_pagination.tpl',
+      0 => '/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form/themes/default/js_pagination.tpl',
       1 => 1571530732,
       2 => 'file',
     ),

@@ -1,8 +1,8 @@
 <?php
 
 // main program paths - no trailing slashes!
-$g_root_url = "https://widifirmaan.github.io/excelpintar.web.id/form";
-$g_root_dir = "/home/seet7121/public_html/widifirmaan.github.io/excelpintar.web.id/form";
+$g_root_url = "https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form";
+$g_root_dir = "/home/seet7121/public_html/widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/form";
 
 // database settings
 $g_db_hostname = "localhost";
