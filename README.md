@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[io/ExcekPintar (Available until ...)](https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/)  
+[DEMO]([https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/](https://excelpintar.dufl.web.id/))  
 
 <h2>Project Screenshots:</h2>
 
