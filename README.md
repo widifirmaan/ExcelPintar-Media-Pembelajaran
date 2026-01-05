@@ -42,8 +42,7 @@ Referensi dan sumber belajar yang digunakan dalam penyusunan materi aplikasi ini
 
 Aplikasi ini berbasis web statis, sehingga dapat dijalankan dengan mudah:
 
-1.  **Online**: Kunjungi [Link Demo](https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/).
-2.  **Offline**:
+1.  **Offline**:
     *   Clone atau download repository ini.
     *   Buka file `index.html` menggunakan browser modern (Chrome, Firefox, Edge, dll).
 
