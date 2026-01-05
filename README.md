@@ -1,48 +1,55 @@
-<center><h1 align="center" id="title">ExcelPintar</h1>
+# ExcelPintar - Media Pembelajaran
 
-<p id="description">Media Pembelajaran Microsoft Excel Lengkap dengan Quiz dan Latihan Soal</p>
+ExcelPintar adalah aplikasi media pembelajaran berbasis web yang dirancang untuk membantu siswa memahami dasar-dasar pengoperasian Microsoft Excel. Aplikasi ini menyajikan materi secara interaktif, lengkap dengan video, latihan soal, dan kuis evaluasi.
 
-<h2>🚀 Demo</h2>
+## Fitur Utama
 
-https://excelpintar.dufl.web.id/
+Berikut adalah fitur-fitur utama yang tersedia dalam aplikasi ini:
 
-<h2>Project Screenshots:</h2>
+### 1. Halaman Utama (Landing Page)
+Halaman awal yang menyambut pengguna dengan antarmuka yang bersih dan navigasi menu yang mudah diakses.
+![Halaman Utama](screenshots/landing_page.png)
 
-<img src="https://raw.githubusercontent.com/widifirmaan/excelpintar.web.id/refs/heads/main/Screenshot%20(28).png" alt="project-screenshot" width="400" height="400/">
+### 2. Kompetensi Dasar (KD)
+Menampilkan informasi mengenai Kompetensi Dasar (3.4 & 4.4), Indikator Pencapaian Kompetensi, dan Tujuan Pembelajaran yang ingin dicapai.
+![Kompetensi Dasar](screenshots/kompetensi_dasar.png)
 
-<img src="https://raw.githubusercontent.com/widifirmaan/excelpintar.web.id/refs/heads/main/Screenshot%20(29).png" alt="project-screenshot" width="400" height="400/">
+### 3. Materi Pembelajaran
+Modul pembelajaran lengkap yang mencakup pengenalan Excel, cara memulai, pembuatan format workbook, hingga penggunaan rumus dan fungsi.
+![Materi Pembelajaran](screenshots/materi_main.png)
 
-<img src="https://raw.githubusercontent.com/widifirmaan/excelpintar.web.id/refs/heads/main/Screenshot%20(30).png" alt="project-screenshot" width="400" height="400/">
+#### Video Pembelajaran
+Dilengkapi dengan video tutorial untuk memudahkan pemahaman siswa secara visual.
+![Video Pembelajaran](screenshots/materi_video.png)
 
-<img src="https://raw.githubusercontent.com/widifirmaan/excelpintar.web.id/refs/heads/main/Screenshot%20(31).png" alt="project-screenshot" width="400" height="400/">
+### 4. Latihan Soal
+Bagian ini menyediakan latihan praktis untuk mengasah kemampuan siswa dalam menerapkan materi yang telah dipelajari.
+![Latihan Soal](screenshots/latihan_soal.png)
 
+### 5. Quiz Interaktif
+Evaluasi pemahaman siswa melalui kuis interaktif yang dapat dikerjakan secara langsung.
+![Quiz Interaktif](screenshots/quiz.png)
 
-<h2>🧐 Features</h2>
+### 6. Profil Pengembang
+Informasi mengenai tim pengembang dan pembimbing di balik pembuatan media pembelajaran ini.
+![Profil Pengembang](screenshots/profil_pengembang.png)
 
-Here're some of the project's best features:
+### 7. Daftar Pustaka
+Referensi dan sumber belajar yang digunakan dalam penyusunan materi aplikasi ini.
+![Daftar Pustaka](screenshots/daftar_pustaka.png)
 
-*   Media Pembelajaran Berbasis Video
-*   Media Pembelajaran Berbasis Text
-*   Quiz
-*   Score
-*   Latihan Soal
-*   Daftar Pustaka
+## Cara Menggunakan
 
-<h2>🛠️ Installation Steps:</h2>
+Aplikasi ini berbasis web statis, sehingga dapat dijalankan dengan mudah:
 
-<p>1. Just Clone it</p>
+1.  **Online**: Kunjungi [Link Demo](https://widifirmaan.github.io/ExcelPintar-Media-Pembelajaran/).
+2.  **Offline**:
+    *   Clone atau download repository ini.
+    *   Buka file `index.html` menggunakan browser modern (Chrome, Firefox, Edge, dll).
 
-  
-  
-<h2>💻 Built with</h2>
+## Tim Pengembang
 
-Technologies used in the project:
+*   **Project Untuk**: Donny Bimo Hendro Utomo
+*   **Pembimbing**: Drs. Purwanto, MM., M.Pd.
+*   **Ahli Media**: Arwan Nur Ramadhan, M.Pd.
 
-*   Bootstrap
-*   HTML5
-*   CSS
-*   JavaScript
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the Licensed to Donny Bima
